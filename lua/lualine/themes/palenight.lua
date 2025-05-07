@@ -18,7 +18,7 @@ local colors = {
   dark_yellow    = '#F78C6C',
   cyan           = '#89DDFF',
   comment_grey   = '#697098',
-  black          = '#2a2e38',
+  black          = '#2a2e38', --custom bg color to match vim-pink-moomn theme!
 }
 
 return {
