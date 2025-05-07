@@ -18,7 +18,7 @@ local colors = {
   dark_yellow    = '#F78C6C',
   cyan           = '#89DDFF',
   comment_grey   = '#697098',
-  black          = '#292D3E',
+  black          = '#2a2e38',
 }
 
 return {
